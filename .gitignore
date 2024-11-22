@@ -1,1 +1,4 @@
-.pio
+.pio/**
+lib/**
+include/**
+test/**
